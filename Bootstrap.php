@@ -1,6 +1,6 @@
 <?php
 
-namespace omnilight\scheduling;
+namespace easyconn\scheduling;
 use yii\base\BootstrapInterface;
 use yii\base\Application;
 use yii\di\Instance;

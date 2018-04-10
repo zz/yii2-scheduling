@@ -1,6 +1,6 @@
 <?php
 
-namespace omnilight\scheduling;
+namespace easyconn\scheduling;
 use Yii;
 use yii\base\Application;
 use yii\base\InvalidParamException;
